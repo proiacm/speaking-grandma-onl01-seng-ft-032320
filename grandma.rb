@@ -9,7 +9,7 @@ elsif phrase.upcase
 elsif phrase.downcase
     "HUH?! SPEAK UP, SONNY!"
 
-else phrase
+else
    "HUH?! SPEAK UP, SONNY!"
 
 end
