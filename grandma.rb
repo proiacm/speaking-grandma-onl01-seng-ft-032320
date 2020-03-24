@@ -7,7 +7,8 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase.upcase
 puts "NO, NOT SINCE 1938!"
 
-then 
+else phrase
+  puts ""
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
