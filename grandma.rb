@@ -6,11 +6,9 @@ if phrase == "I LOVE YOU GRANDMA!"
 elsif phrase.upcase
    "NO, NOT SINCE 1938!"
    
-elsif phrase.downcase
+elsif
     "HUH?! SPEAK UP, SONNY!"
 
-else
-   "HUH?! SPEAK UP, SONNY!"
 
 end
 end
